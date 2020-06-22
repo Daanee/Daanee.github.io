@@ -5,6 +5,7 @@ Oink ist der oinkigste Oink westlich des Mississippi. Es ist oinkig bei Tag, abe
 * Spendet im Sommer Schatten und kühlt
 * Im Winter wärmt er
 * Schläft gerne und viel
+
 Oink sagt:
 > Oink oder nicht oink...das ist hier die Frage.
 > Is noch Kaffee da, oink?
