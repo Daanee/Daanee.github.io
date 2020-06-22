@@ -22,4 +22,3 @@ if check_if_string_in_file(directory, '##'):
    print('Yes')
 else:
    print('No')
-   
