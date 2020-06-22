@@ -7,4 +7,5 @@ Oink ist der oinkigste Oink westlich des Mississippi. Es ist oinkig bei Tag, abe
 * Schläft gerne und viel
 Oink sagt:
 > Oink oder nicht oink...das ist hier die Frage.
+> Ist noch Kaffee da?
 
