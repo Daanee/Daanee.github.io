@@ -9,3 +9,5 @@ Oink ist der oinkigste Oink westlich des Mississippi. Es ist oinkig bei Tag, abe
 Oink sagt:
 > Oink oder nicht oink...das ist hier die Frage.
 > Is noch Kaffee da, oink?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/OiNK_logo.png"/>
